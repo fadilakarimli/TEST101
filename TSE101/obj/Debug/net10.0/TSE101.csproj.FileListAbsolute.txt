@@ -1,0 +1,15 @@
+C:\Users\Fadila\Desktop\TSE101\TSE101\bin\Debug\net10.0\TSE101.exe
+C:\Users\Fadila\Desktop\TSE101\TSE101\bin\Debug\net10.0\TSE101.deps.json
+C:\Users\Fadila\Desktop\TSE101\TSE101\bin\Debug\net10.0\TSE101.runtimeconfig.json
+C:\Users\Fadila\Desktop\TSE101\TSE101\bin\Debug\net10.0\TSE101.dll
+C:\Users\Fadila\Desktop\TSE101\TSE101\bin\Debug\net10.0\TSE101.pdb
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\TSE101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\TSE101.AssemblyInfoInputs.cache
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\TSE101.AssemblyInfo.cs
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\TSE101.csproj.CoreCompileInputs.cache
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\TSE101.dll
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\refint\TSE101.dll
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\TSE101.pdb
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\TSE101.genruntimeconfig.cache
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\ref\TSE101.dll
+C:\Users\Fadila\Desktop\TSE101\TSE101\obj\Debug\net10.0\TSE101.csproj.Up2Date
